@@ -1039,6 +1039,10 @@ window.Vue = __webpack_require__(35);
 
 Vue.use(__WEBPACK_IMPORTED_MODULE_0_buefy___default.a);
 // Vue.component('example-component', require('./components/ExampleComponent.vue'));
+var app = new vue({
+  el: '#app',
+  data: {}
+});
 
 /***/ }),
 /* 12 */
@@ -40298,7 +40302,7 @@ module.exports = Vue$3;
 /* 38 */
 /***/ (function(module, exports) {
 
-// removed by extract-text-webpack-plugin
+throw new Error("Module build failed: ModuleBuildError: Module build failed: \r\nundefined\r\n^\r\n      File to import not found or unreadable: helpers.\nParent style sheet: stdin\r\n      in C:\\xampp\\htdocs\\GanasGam\\resources\\assets\\sass\\app.scss (line 16, column 1)\n    at runLoaders (C:\\xampp\\htdocs\\GanasGam\\node_modules\\webpack\\lib\\NormalModule.js:195:19)\n    at C:\\xampp\\htdocs\\GanasGam\\node_modules\\loader-runner\\lib\\LoaderRunner.js:364:11\n    at C:\\xampp\\htdocs\\GanasGam\\node_modules\\loader-runner\\lib\\LoaderRunner.js:230:18\n    at context.callback (C:\\xampp\\htdocs\\GanasGam\\node_modules\\loader-runner\\lib\\LoaderRunner.js:111:13)\n    at Object.asyncSassJobQueue.push [as callback] (C:\\xampp\\htdocs\\GanasGam\\node_modules\\sass-loader\\lib\\loader.js:55:13)\n    at Object.<anonymous> (C:\\xampp\\htdocs\\GanasGam\\node_modules\\async\\dist\\async.js:2257:31)\n    at Object.callback (C:\\xampp\\htdocs\\GanasGam\\node_modules\\async\\dist\\async.js:958:16)\n    at options.error (C:\\xampp\\htdocs\\GanasGam\\node_modules\\node-sass\\lib\\index.js:294:32)");
 
 /***/ })
 /******/ ]);
